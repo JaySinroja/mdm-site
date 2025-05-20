@@ -1,0 +1,66 @@
+.seller-page {
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.hero-section {
+  position: relative;
+  text-align: center;
+  color: white;
+  margin-bottom: 3rem;
+}
+
+.hero-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.hero-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+  text-shadow: 2px 2px 6px rgba(0,0,0,0.7);
+}
+
+.features-section {
+  background-color: #f9f9f9;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+.features {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+
+.feature {
+  max-width: 220px;
+}
+
+.feature img {
+  width: 80px;
+  height: 80px;
+  margin-bottom: 1rem;
+}
+
+.steps-section {
+  padding: 2rem 1rem;
+  max-width: 800px;
+  margin: 0 auto 3rem auto;
+}
+
+.steps {
+  text-align: left;
+  font-size: 1.1rem;
+  padding-left: 1.2rem;
+}
+
+.steps li {
+  margin-bottom: 1rem;
+}
