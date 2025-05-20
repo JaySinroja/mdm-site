@@ -1,11 +1,14 @@
 import React from 'react';
+import aboutImage from '../assets/images/about1.png';  // import the image
 import './About.css';
-
 
 const About = () => {
   return (
     <div className="about-container">
-      <div className="about-banner">
+      <div 
+        className="about-banner" 
+        style={{ backgroundImage: `url(${aboutImage})` }}  // inline background image style
+      >
         <div className="about-banner-overlay">
           <h1>About Us</h1>
         </div>

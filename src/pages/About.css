@@ -4,7 +4,7 @@
 }
 
 .about-banner {
-background-image: url('D:\wt web\mdm\public\assets\images\about1.png');
+  /* Remove background-image from CSS - handled inline now */
   background-size: cover;
   background-position: center;
   height: 300px;

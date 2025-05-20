@@ -7,7 +7,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="navbar-logo">
         <NavLink to="/">
-          <img src="/assets/images/img1.png" alt="1MDM Logo" />
+          <img src="assets\images\img1.png" alt="1MDM Logo" />
         </NavLink>
       </div>
       <ul className="navbar-links">

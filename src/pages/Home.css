@@ -1,7 +1,5 @@
 .home {
   height: 100vh;
-background-image: url('D:\wt web\mdm\public\assets\images\banner.png'); 
-
   background-size: cover;
   background-position: center;
   display: flex;
@@ -10,6 +8,9 @@ background-image: url('D:\wt web\mdm\public\assets\images\banner.png');
   text-align: center;
   position: relative;
 }
+
+/* other styles unchanged */
+
 
 .overlay {
   background-color: rgba(0, 0, 0, 0.5); /* dark overlay for contrast */
