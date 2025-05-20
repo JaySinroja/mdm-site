@@ -4,7 +4,7 @@
 }
 
 .about-banner {
-  background-image: url('D:\wt web\mdm\public\assets\images\about1.png'); /* Replace with your image path */
+background-image: url('D:\wt web\mdm\public\assets\images\about1.png');
   background-size: cover;
   background-position: center;
   height: 300px;
